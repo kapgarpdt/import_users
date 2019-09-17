@@ -1,0 +1,3 @@
+name,email,role,title,countrycode,phonenumber,teams
+Joe User,ju@example.com,user,Operations Engineer,1,5555555555,Engineering;Operations
+Bob Dobbs,bd@example.com,user,Director of Engineering,86,15555555554,Engineering;Operations;Leadership
